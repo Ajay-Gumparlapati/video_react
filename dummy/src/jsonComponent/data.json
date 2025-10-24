@@ -1,0 +1,17 @@
+{
+    "products":[
+        {
+          "id":1,
+          "name":"Samsung Laptop",
+          "price":23000
+        },{
+"id":2,
+          "name":"Lenovo Laptop",
+          "price":23000
+        },{
+"id":3,
+          "name":"HP Laptop",
+          "price":23000
+        }
+    ]
+}
